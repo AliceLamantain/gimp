@@ -33,7 +33,7 @@ endif
 
 SUBDIRS = \
 	$(script_fu)		\
-	$(pygimp)		\
+##	$(pygimp)		\
 	file-bmp		\
 	$(file_exr)		\
 	file-faxg3		\
@@ -47,11 +47,11 @@ SUBDIRS = \
 	flame			\
 	fractal-explorer	\
 	gfig			\
-	gimpressionist		\
+##	gimpressionist		\
 	gradient-flare		\
 	help			\
 	$(help_browser)		\
-	ifs-compose		\
+##	ifs-compose		\
 	imagemap		\
 	lighting		\
 	map-object		\
